@@ -4,6 +4,6 @@
 ✅ Linear Search
 ✅ Binary Search
 
-## SORTING
+## Sorting
 ✅ Bubble Sort
 ✅ Insertion Sort
