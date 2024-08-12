@@ -6,3 +6,4 @@
 
 ## SORTING
 ✅ Bubble Sort
+✅ Insertion Sort
